@@ -1,0 +1,32 @@
+Labb2.MainActivity, Labb2;md5519c80ec60ab1529bce469143fb0f310.MainActivity
+Labb2.MainActivity, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.MainActivity
+Labb2.MainActivity;md5519c80ec60ab1529bce469143fb0f310.MainActivity
+labb2.MainActivity;md5519c80ec60ab1529bce469143fb0f310.MainActivity
+Labb2.Entry, Labb2;md5519c80ec60ab1529bce469143fb0f310.Entry
+Labb2.Entry, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.Entry
+Labb2.Entry;md5519c80ec60ab1529bce469143fb0f310.Entry
+labb2.Entry;md5519c80ec60ab1529bce469143fb0f310.Entry
+Labb2.TaxRate, Labb2;md5519c80ec60ab1529bce469143fb0f310.TaxRate
+Labb2.TaxRate, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.TaxRate
+Labb2.TaxRate;md5519c80ec60ab1529bce469143fb0f310.TaxRate
+labb2.TaxRate;md5519c80ec60ab1529bce469143fb0f310.TaxRate
+Labb2.Account, Labb2;md5519c80ec60ab1529bce469143fb0f310.Account
+Labb2.Account, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.Account
+Labb2.Account;md5519c80ec60ab1529bce469143fb0f310.Account
+labb2.Account;md5519c80ec60ab1529bce469143fb0f310.Account
+Labb2.EntryListActivity, Labb2;md5519c80ec60ab1529bce469143fb0f310.EntryListActivity
+Labb2.EntryListActivity, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.EntryListActivity
+Labb2.EntryListActivity;md5519c80ec60ab1529bce469143fb0f310.EntryListActivity
+labb2.EntryListActivity;md5519c80ec60ab1529bce469143fb0f310.EntryListActivity
+Labb2.EntryListAdapter, Labb2;md5519c80ec60ab1529bce469143fb0f310.EntryListAdapter
+Labb2.EntryListAdapter, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.EntryListAdapter
+Labb2.EntryListAdapter;md5519c80ec60ab1529bce469143fb0f310.EntryListAdapter
+labb2.EntryListAdapter;md5519c80ec60ab1529bce469143fb0f310.EntryListAdapter
+Labb2.NewEntryActivity, Labb2;md5519c80ec60ab1529bce469143fb0f310.NewEntryActivity
+Labb2.NewEntryActivity, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.NewEntryActivity
+Labb2.NewEntryActivity;md5519c80ec60ab1529bce469143fb0f310.NewEntryActivity
+labb2.NewEntryActivity;md5519c80ec60ab1529bce469143fb0f310.NewEntryActivity
+Labb2.CreateReportsActivity, Labb2;md5519c80ec60ab1529bce469143fb0f310.CreateReportsActivity
+Labb2.CreateReportsActivity, Labb2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5519c80ec60ab1529bce469143fb0f310.CreateReportsActivity
+Labb2.CreateReportsActivity;md5519c80ec60ab1529bce469143fb0f310.CreateReportsActivity
+labb2.CreateReportsActivity;md5519c80ec60ab1529bce469143fb0f310.CreateReportsActivity

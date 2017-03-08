@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/newEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ny händelse" />
+    <Button
+        android:id="@+id/showAllEvents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="visa alla händelser" />
+    <Button
+        android:id="@+id/createReports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="skapa rapporter" />
+</LinearLayout>

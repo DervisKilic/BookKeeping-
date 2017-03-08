@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B5402951-B566-4EC0-B399-7A2C50159F4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb2/Assets/BookKeeperManager.cs">
+    <Files>
+      <File FileName="Labb2/Assets/BookKeeperManager.cs" Line="87" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Dervis/Projects/Labb2/Labb2/Resources/layout/Main.axml" relfile="Labb2/Resources/layout/Main.axml" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Labb2 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.KissEmulator" />
+</Properties>

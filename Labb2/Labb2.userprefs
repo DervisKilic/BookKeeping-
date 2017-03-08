@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{B5402951-B566-4EC0-B399-7A2C50159F4F}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Labb2 PreferredExecutionTarget="Android.BajsEmulator" />
+</Properties>
